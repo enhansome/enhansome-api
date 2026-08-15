@@ -119,7 +119,7 @@
             "last_commit": "2026-05-03T19:24:28Z",
             "owner": "n0shake",
             "repo": "Public-APIs",
-            "stars": 23737
+            "stars": 23744
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2024-06-23T16:11:30Z",
             "owner": "toddmotto",
             "repo": "public-apis",
-            "stars": 2743
+            "stars": 2744
           }
         }
       ],
@@ -158,7 +158,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38420
+            "stars": 38422
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75700
+            "stars": 75702
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36046
+            "stars": 36045
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:52:43.178Z",
+    "last_updated": "2026-08-15T19:30:16.282Z",
     "original_repository": "Kikobeats/awesome-api",
     "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
     "enhanced_repository": "enhansome/enhansome-api",
