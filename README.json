@@ -1,286 +1,306 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microsoft REST API Guidelines",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63188650,
+                "language": null,
+                "last_commit": "2026-08-05T00:07:38Z",
+                "owner": "microsoft",
+                "repo": "api-guidelines",
+                "stars": 23318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTP API Design by Heroku",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19542809,
+                "language": null,
+                "last_commit": "2024-01-16T20:27:54Z",
+                "owner": "interagent",
+                "repo": "http-api-design",
+                "stars": 13684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How to (and how not to) design REST APIs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84749921,
+                "language": null,
+                "last_commit": "2024-01-08T20:33:15Z",
+                "owner": "stickfigure",
+                "repo": "blog",
+                "stars": 573
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IBM Watson REST API Guidelines",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44835846,
+                "language": null,
+                "last_commit": "2021-07-21T17:11:04Z",
+                "owner": "watson-developer-cloud",
+                "repo": "api-guidelines",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "API Terms Glossary",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18233045,
+                "language": null,
+                "last_commit": "2017-03-25T11:55:40Z",
+                "owner": "Kong",
+                "repo": "apiglossary",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RAPIS: A REST API Standard for the 21th century",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61573222,
+                "language": null,
+                "last_commit": "2016-07-05T14:14:11Z",
+                "owner": "lambda2",
+                "repo": "rapis",
+                "stars": 54
+              }
+            }
+          ],
+          "description": "REST allows us to create services and applications that can be used by any device or client who understands HTTP.",
+          "node_type": "group",
+          "title": "Overview"
+        }
+      ],
       "title": "Design"
     },
     {
-      "description": "",
+      "description": "Need a API for your projects?",
       "items": [
         {
-          "node_type": "item",
-          "title": "Microsoft REST API Guidelines",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-05T00:07:38Z",
-            "owner": "microsoft",
-            "repo": "api-guidelines",
-            "stars": 23318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTTP API Design by Heroku",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-16T20:27:54Z",
-            "owner": "interagent",
-            "repo": "http-api-design",
-            "stars": 13684
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How to (and how not to) design REST APIs",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome APIs Directory",
+              "description": "A public list of APIs from round the web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49594603,
+                "language": null,
+                "last_commit": "2026-05-03T19:24:28Z",
+                "owner": "n0shake",
+                "repo": "Public-APIs",
+                "stars": 23755
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "public apis",
+              "description": "A collective list of public JSON APIs for use in web development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472697800,
+                "language": null,
+                "last_commit": "2024-06-23T16:11:30Z",
+                "owner": "toddmotto",
+                "repo": "public-apis",
+                "stars": 2738
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-08T20:33:15Z",
-            "owner": "stickfigure",
-            "repo": "blog",
-            "stars": 573
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IBM Watson REST API Guidelines",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-07-21T17:11:04Z",
-            "owner": "watson-developer-cloud",
-            "repo": "api-guidelines",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "API Terms Glossary",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-03-25T11:55:40Z",
-            "owner": "Kong",
-            "repo": "apiglossary",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RAPIS: A REST API Standard for the 21th century",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-07-05T14:14:11Z",
-            "owner": "lambda2",
-            "repo": "rapis",
-            "stars": 54
-          }
+          "node_type": "group",
+          "title": "Curated list"
         }
       ],
-      "title": "Overview"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Authorization"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Discover"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome APIs Directory",
-          "description": "A public list of APIs from round the web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-03T19:24:28Z",
-            "owner": "n0shake",
-            "repo": "Public-APIs",
-            "stars": 23754
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "httpie",
+              "description": "Command line HTTP client, far more dev-friendly than .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3544424,
+                "language": "Python",
+                "last_commit": "2024-12-17T17:30:35Z",
+                "owner": "httpie",
+                "repo": "cli",
+                "stars": 38431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq",
+              "description": "Command line JSON processor, to use in combination with a command-line HTTP client like cURL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5101141,
+                "language": "C",
+                "last_commit": "2026-08-12T19:02:39Z",
+                "owner": "jqlang",
+                "repo": "jq",
+                "stars": 35470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "resty",
+              "description": "Little command line REST client that you can use in pipelines (bash or zsh).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203438,
+                "language": "Shell",
+                "last_commit": "2023-02-17T16:10:52Z",
+                "owner": "micha",
+                "repo": "resty",
+                "stars": 2653
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Querying"
         },
         {
-          "node_type": "item",
-          "title": "public apis",
-          "description": "A collective list of public JSON APIs for use in web development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-23T16:11:30Z",
-            "owner": "toddmotto",
-            "repo": "public-apis",
-            "stars": 2738
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "json-server",
+              "description": "Get a full fake REST API with zero coding in less than 30 seconds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14747598,
+                "language": "JavaScript",
+                "last_commit": "2026-03-23T19:40:00Z",
+                "owner": "typicode",
+                "repo": "json-server",
+                "stars": 75690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FakeRest",
+              "description": "Patch XMLHttpRequest to fake a REST API client-side.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32814581,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T22:45:41Z",
+                "owner": "marmelab",
+                "repo": "FakeRest",
+                "stars": 456
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mocking"
         }
       ],
-      "title": "Curated list"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": "One of the most important part of your API is have a good documentation and updated with the code.",
       "items": [
         {
-          "node_type": "item",
-          "title": "httpie",
-          "description": "Command line HTTP client, far more dev-friendly than .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-17T17:30:35Z",
-            "owner": "httpie",
-            "repo": "cli",
-            "stars": 38431
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq",
-          "description": "Command line JSON processor, to use in combination with a command-line HTTP client like cURL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T19:02:39Z",
-            "owner": "jqlang",
-            "repo": "jq",
-            "stars": 35460
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "resty",
-          "description": "Little command line REST client that you can use in pipelines (bash or zsh).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-02-17T16:10:52Z",
-            "owner": "micha",
-            "repo": "resty",
-            "stars": 2653
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "slate",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12820537,
+                "language": null,
+                "last_commit": "2026-02-01T05:54:12Z",
+                "owner": "slatedocs",
+                "repo": "slate",
+                "stars": 36040
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "whiteboard",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50463252,
+                "language": "JavaScript",
+                "last_commit": "2021-01-29T11:20:13Z",
+                "owner": "mpociot",
+                "repo": "whiteboard",
+                "stars": 1226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docbox",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53007065,
+                "language": "CSS",
+                "last_commit": "2020-04-21T21:08:24Z",
+                "owner": "tmcw",
+                "repo": "docbox",
+                "stars": 1131
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Free"
         }
       ],
-      "title": "Querying"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "json-server",
-          "description": "Get a full fake REST API with zero coding in less than 30 seconds.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-23T19:40:00Z",
-            "owner": "typicode",
-            "repo": "json-server",
-            "stars": 75690
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FakeRest",
-          "description": "Patch XMLHttpRequest to fake a REST API client-side.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-09T22:45:41Z",
-            "owner": "marmelab",
-            "repo": "FakeRest",
-            "stars": 456
-          }
-        }
-      ],
-      "title": "Mocking"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Documentation"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "slate",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-02-01T05:54:12Z",
-            "owner": "slatedocs",
-            "repo": "slate",
-            "stars": 36040
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "whiteboard",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-29T11:20:13Z",
-            "owner": "mpociot",
-            "repo": "whiteboard",
-            "stars": 1226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docbox",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2020-04-21T21:08:24Z",
-            "owner": "tmcw",
-            "repo": "docbox",
-            "stars": 1131
-          }
-        }
-      ],
-      "title": "Free"
-    },
-    {
-      "description": "",
+      "description": "Used it to improve your workflow",
       "items": [
         {
           "node_type": "item",
@@ -289,6 +309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5383496,
             "language": "TypeScript",
             "last_commit": "2026-02-12T14:52:52Z",
             "owner": "niieani",
@@ -303,6 +324,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660260367,
             "language": "TypeScript",
             "last_commit": "2026-06-29T16:25:30Z",
             "owner": "jetify-com",
@@ -317,6 +339,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137690849,
             "language": "JavaScript",
             "last_commit": "2026-08-05T20:34:21Z",
             "owner": "microlinkhq",
@@ -326,16 +349,12 @@
         }
       ],
       "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gateways"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:36:01.517Z",
+    "last_updated": "2026-08-19T12:17:20.797Z",
     "original_repository": "Kikobeats/awesome-api",
+    "original_repository_id": 28921349,
     "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
     "enhanced_repository": "enhansome/enhansome-api",
     "enhanced_repository_description": null,
