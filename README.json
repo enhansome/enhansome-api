@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23319
+                "stars": 23321
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-05-03T19:24:28Z",
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23767
+                "stars": 23770
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2024-06-23T16:11:30Z",
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2738
+                "stars": 2739
               }
             }
           ],
@@ -163,7 +163,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38436
+                "stars": 38439
               }
             },
             {
@@ -178,7 +178,7 @@
                 "last_commit": "2026-08-12T19:02:39Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35477
+                "stars": 35470
               }
             },
             {
@@ -215,7 +215,7 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75681
+                "stars": 75682
               }
             },
             {
@@ -329,7 +329,7 @@
             "last_commit": "2026-06-29T16:25:30Z",
             "owner": "jetify-com",
             "repo": "typeid-js",
-            "stars": 431
+            "stars": 433
           }
         },
         {
@@ -352,7 +352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:39:43.470Z",
+    "last_updated": "2026-08-21T19:33:31.820Z",
     "original_repository": "Kikobeats/awesome-api",
     "original_repository_id": 28921349,
     "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
