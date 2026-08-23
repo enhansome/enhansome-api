@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23322
+                "stars": 23321
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-05-03T19:24:28Z",
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23777
+                "stars": 23782
               }
             },
             {
@@ -175,10 +175,10 @@
                 "archived": false,
                 "id": 5101141,
                 "language": "C",
-                "last_commit": "2026-08-12T19:02:39Z",
+                "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35469
+                "stars": 35476
               }
             },
             {
@@ -215,7 +215,7 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75683
+                "stars": 75687
               }
             },
             {
@@ -258,7 +258,7 @@
                 "last_commit": "2026-02-01T05:54:12Z",
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36037
+                "stars": 36038
               }
             },
             {
@@ -352,7 +352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:31:06.114Z",
+    "last_updated": "2026-08-23T19:30:52.826Z",
     "original_repository": "Kikobeats/awesome-api",
     "original_repository_id": 28921349,
     "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
