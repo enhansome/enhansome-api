@@ -8,12 +8,12 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,327 | 🐛 176 | 📅 2026-08-05.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,328 | 🐛 176 | 📅 2026-08-05.
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,684 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 573 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 136 | 🐛 0 | 📅 2021-07-21.
 * [API Terms Glossary](https://github.com/Mashape/apiglossary) ⭐ 96 | 🐛 2 | 📅 2017-03-25.
-* [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis) ⭐ 54 | 🐛 1 | 📅 2016-07-05.
+* [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis) ⭐ 55 | 🐛 1 | 📅 2016-07-05.
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) \[[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [StackOverflow best REST API Design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/).
@@ -88,7 +88,7 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,800 | 🐛 123 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,802 | 🐛 122 | 📅 2026-05-03 – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,739 | 🐛 12 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
@@ -100,7 +100,7 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,455 | 🐛 334 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,460 | 🐛 334 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
 * [jq](https://github.com/stedolan/jq) ⭐ 35,488 | 🐛 470 | 🌐 C | 📅 2026-08-23 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,653 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
@@ -110,7 +110,7 @@
 
 ### Mocking
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,690 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,692 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
 * [FakeRest](https://github.com/marmelab/FakeRest) ⭐ 456 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-09 – Patch XMLHttpRequest to fake a REST API client-side.
 * [Beeceptor](https://beeceptor.com) - Beeceptor helps intercepting API calls and mocking them selectively. Creates an endpoint for wrapping original API and routes requests.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
@@ -144,7 +144,7 @@
 ## Logging
 
 * [PM2 by keymetrics](https://pm2.keymetrics.io).
-* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-26.
+* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-26.
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
 
 ## Modeling and SaaS
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,864 | 🐛 78 | 🌐 Python | 📅 2026-08-26.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,873 | 🐛 79 | 🌐 Python | 📅 2026-08-26.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
@@ -191,4 +191,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

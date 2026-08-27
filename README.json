@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23327
+                "stars": 23328
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2016-07-05T14:14:11Z",
                 "owner": "lambda2",
                 "repo": "rapis",
-                "stars": 54
+                "stars": 55
               }
             }
           ],
@@ -142,7 +142,7 @@
                 "last_commit": "2026-05-03T19:24:28Z",
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23800
+                "stars": 23802
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38455
+                "stars": 38460
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75690
+                "stars": 75692
               }
             },
             {
@@ -374,9 +374,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:47:45.129Z",
-    "original_repository": "Kikobeats/awesome-api",
-    "original_repository_id": 28921349,
+    "last_updated": "2026-08-27T11:21:47.240Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 28921349,
+      "language": null,
+      "last_commit": "2024-10-12T18:35:34Z",
+      "owner": "Kikobeats",
+      "repo": "awesome-api",
+      "stars": 2963
+    },
     "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
     "enhanced_repository": "enhansome/enhansome-api",
     "enhanced_repository_description": null,
