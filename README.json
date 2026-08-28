@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23328
+                "stars": 23331
               }
             },
             {
@@ -142,7 +142,7 @@
                 "last_commit": "2026-05-03T19:24:28Z",
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23802
+                "stars": 23804
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
+                "stars": 38464
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35488
+                "stars": 35495
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75692
+                "stars": 75696
               }
             },
             {
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:47.240Z",
+    "last_updated": "2026-08-28T03:33:00.332Z",
     "original_repository_info": {
       "archived": false,
       "id": 28921349,
