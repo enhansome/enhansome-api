@@ -21,7 +21,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23332,
+                "stars": 23333,
                 "topics": [
                   "api",
                   "guidelines",
@@ -200,7 +200,7 @@
                 "open_issues": 123,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23811,
+                "stars": 23812,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -252,10 +252,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 335,
+                "open_issues": 336,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38465,
+                "stars": 38467,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-23T15:06:16Z",
-                "open_issues": 472,
+                "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35506,
+                "stars": 35509,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75698,
+                "stars": 75697,
                 "topics": [
                   "api",
                   "fake",
@@ -529,7 +529,7 @@
             "open_issues": 2,
             "owner": "jetify-com",
             "repo": "typeid-js",
-            "stars": 435,
+            "stars": 436,
             "topics": [
               "guid",
               "js",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:32.043Z",
+    "last_updated": "2026-08-29T21:41:38.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
