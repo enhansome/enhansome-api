@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft REST API Guidelines",
+                "homepage": null,
                 "id": 63188650,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:07:38Z",
+                "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23331
+                "stars": 23332,
+                "topics": [
+                  "api",
+                  "guidelines",
+                  "rest-api",
+                  "styleguide"
+                ]
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP API design guide extracted from work on the Heroku Platform API",
+                "homepage": "https://geemus.gitbooks.io/http-api-design/content/en/",
                 "id": 19542809,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-16T20:27:54Z",
+                "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13684
+                "stars": 13684,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jeff Schnitzer's Blog",
+                "homepage": null,
                 "id": 84749921,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-08T20:33:15Z",
+                "open_issues": 0,
                 "owner": "stickfigure",
                 "repo": "blog",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -60,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":cop: REST API guidelines created for the Watson Developer Cloud services",
+                "homepage": "http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/",
                 "id": 44835846,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-21T17:11:04Z",
+                "open_issues": 0,
                 "owner": "watson-developer-cloud",
                 "repo": "api-guidelines",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -76,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source glossary of API terms, acronyms and industry buzzwords.",
+                "homepage": "http://apiglossary.com",
                 "id": 18233045,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-03-25T11:55:40Z",
+                "open_issues": 2,
                 "owner": "Kong",
                 "repo": "apiglossary",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -92,12 +122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A specification proposal for API's",
+                "homepage": null,
                 "id": 61573222,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2016-07-05T14:14:11Z",
+                "open_issues": 1,
                 "owner": "lambda2",
                 "repo": "rapis",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             }
@@ -115,12 +150,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.",
+                "homepage": null,
                 "id": 82708238,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-03-01T03:45:02Z",
+                "open_issues": 1,
                 "owner": "teesloane",
                 "repo": "Auth-Boss",
-                "stars": 2875
+                "stars": 2875,
+                "topics": [
+                  "authentication",
+                  "cookies",
+                  "https",
+                  "jwt",
+                  "sessions",
+                  "ssl"
+                ]
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             }
@@ -144,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚 A public list of APIs from round the web.",
+                "homepage": null,
                 "id": 49594603,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
+                "open_issues": 123,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23810
+                "stars": 23811,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -160,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collective list of free APIs",
+                "homepage": "http://public-apis.org",
                 "id": 472697800,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-23T16:11:30Z",
+                "open_issues": 12,
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2741
+                "stars": 2741,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             }
@@ -189,12 +246,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+                "homepage": "https://httpie.io",
                 "id": 3544424,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
+                "open_issues": 335,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38465
+                "stars": 38465,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-testing",
+                  "cli",
+                  "client",
+                  "curl",
+                  "debugging",
+                  "developer-tools",
+                  "development",
+                  "devops",
+                  "http",
+                  "http-client",
+                  "httpie",
+                  "json",
+                  "python",
+                  "rest",
+                  "rest-api",
+                  "terminal",
+                  "usability",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -205,12 +288,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line JSON processor",
+                "homepage": "https://jqlang.org",
                 "id": 5101141,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T15:06:16Z",
+                "open_issues": 472,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35505
+                "stars": 35506,
+                "topics": [
+                  "jq"
+                ]
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -221,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Little command line REST client that you can use in pipelines (bash or zsh).",
+                "homepage": null,
                 "id": 203438,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-02-17T16:10:52Z",
+                "open_issues": 17,
                 "owner": "micha",
                 "repo": "resty",
-                "stars": 2653
+                "stars": 2653,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             }
@@ -244,12 +339,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+                "homepage": null,
                 "id": 14747598,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-23T19:40:00Z",
+                "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75699
+                "stars": 75698,
+                "topics": [
+                  "api",
+                  "fake",
+                  "frontend",
+                  "json",
+                  "mock",
+                  "rest",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -260,12 +368,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patch fetch/XMLHttpRequest to fake a REST API server in the browser, based on JSON data.",
+                "homepage": null,
                 "id": 32814581,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-09T22:45:41Z",
+                "open_issues": 2,
                 "owner": "marmelab",
                 "repo": "FakeRest",
-                "stars": 456
+                "stars": 456,
+                "topics": [
+                  "client",
+                  "fetch",
+                  "frontend",
+                  "mock",
+                  "rest",
+                  "test",
+                  "xmlhttprequest"
+                ]
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             }
@@ -289,12 +410,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Beautiful static documentation for your API",
+                "homepage": "https://slatedocs.github.io/slate",
                 "id": 12820537,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-01T05:54:12Z",
+                "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36037
+                "stars": 36037,
+                "topics": [
+                  "api",
+                  "api-documentation",
+                  "slate",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -305,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simply write beautiful API documentation.",
+                "homepage": null,
                 "id": 50463252,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-29T11:20:13Z",
+                "open_issues": 17,
                 "owner": "mpociot",
                 "repo": "whiteboard",
-                "stars": 1226
+                "stars": 1226,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             },
@@ -321,12 +457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API documentation generator",
+                "homepage": null,
                 "id": 53007065,
                 "language": "CSS",
+                "license": "ISC",
                 "last_commit": "2020-04-21T21:08:24Z",
+                "open_issues": 6,
                 "owner": "tmcw",
                 "repo": "docbox",
-                "stars": 1131
+                "stars": 1131,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
             }
@@ -348,12 +489,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small JavaScript library to generate YouTube-like ids from numbers.",
+            "homepage": "https://hashids.org/javascript",
             "id": 5383496,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-12T14:52:52Z",
+            "open_issues": 11,
             "owner": "niieani",
             "repo": "hashids.js",
-            "stars": 4288
+            "stars": 4288,
+            "topics": [
+              "database-ids",
+              "encoding",
+              "hacktoberfest",
+              "hash",
+              "hashids",
+              "ids",
+              "javascript",
+              "node",
+              "npm-package"
+            ]
           },
           "first_seen": "2026-08-29T02:07:31.294Z"
         },
@@ -364,12 +520,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs",
+            "homepage": null,
             "id": 660260367,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-29T16:25:30Z",
+            "open_issues": 2,
             "owner": "jetify-com",
             "repo": "typeid-js",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "guid",
+              "js",
+              "ts",
+              "typeid",
+              "typescript",
+              "uuid",
+              "uuidv7"
+            ]
           },
           "first_seen": "2026-08-29T02:07:31.294Z"
         },
@@ -380,12 +549,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple async rate limiter for Node.js — promise-friendly limits for APIs and workers.",
+            "homepage": "https://github.com/microlinkhq/async-ratelimiter",
             "id": 137690849,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T20:34:21Z",
+            "open_issues": 0,
             "owner": "microlinkhq",
             "repo": "async-ratelimiter",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "api",
+              "async",
+              "concurrency",
+              "limiter",
+              "promise",
+              "rate-limit",
+              "ratelimiter",
+              "redis",
+              "throttle",
+              "token-bucket"
+            ]
           },
           "first_seen": "2026-08-29T02:07:31.294Z"
         }
@@ -394,15 +579,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:07:31.294Z",
+    "last_updated": "2026-08-29T04:22:32.043Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources for design and implement RESTful API's.",
+      "homepage": null,
       "id": 28921349,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-12T18:35:34Z",
+      "open_issues": 38,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2964
+      "stars": 2964,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
     "enhanced_repository": "enhansome/enhansome-api",
