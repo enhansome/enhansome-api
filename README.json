@@ -18,7 +18,8 @@
                 "owner": "microsoft",
                 "repo": "api-guidelines",
                 "stars": 23331
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "interagent",
                 "repo": "http-api-design",
                 "stars": 13684
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "stickfigure",
                 "repo": "blog",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "api-guidelines",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "Kong",
                 "repo": "apiglossary",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "lambda2",
                 "repo": "rapis",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             }
           ],
           "description": "REST allows us to create services and applications that can be used by any device or client who understands HTTP.",
@@ -115,7 +121,8 @@
                 "owner": "teesloane",
                 "repo": "Auth-Boss",
                 "stars": 2875
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             }
           ],
           "description": null,
@@ -142,8 +149,9 @@
                 "last_commit": "2026-05-03T19:24:28Z",
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23804
-              }
+                "stars": 23810
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -157,8 +165,9 @@
                 "last_commit": "2024-06-23T16:11:30Z",
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2739
-              }
+                "stars": 2741
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             }
           ],
           "description": null,
@@ -185,8 +194,9 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38464
-              }
+                "stars": 38465
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -200,8 +210,9 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35495
-              }
+                "stars": 35505
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -216,7 +227,8 @@
                 "owner": "micha",
                 "repo": "resty",
                 "stars": 2653
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             }
           ],
           "description": null,
@@ -237,8 +249,9 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75696
-              }
+                "stars": 75699
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -253,7 +266,8 @@
                 "owner": "marmelab",
                 "repo": "FakeRest",
                 "stars": 456
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             }
           ],
           "description": null,
@@ -281,7 +295,8 @@
                 "owner": "slatedocs",
                 "repo": "slate",
                 "stars": 36037
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -296,7 +311,8 @@
                 "owner": "mpociot",
                 "repo": "whiteboard",
                 "stars": 1226
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             },
             {
               "node_type": "item",
@@ -311,7 +327,8 @@
                 "owner": "tmcw",
                 "repo": "docbox",
                 "stars": 1131
-              }
+              },
+              "first_seen": "2026-08-29T02:07:31.294Z"
             }
           ],
           "description": null,
@@ -337,7 +354,8 @@
             "owner": "niieani",
             "repo": "hashids.js",
             "stars": 4288
-          }
+          },
+          "first_seen": "2026-08-29T02:07:31.294Z"
         },
         {
           "node_type": "item",
@@ -351,8 +369,9 @@
             "last_commit": "2026-06-29T16:25:30Z",
             "owner": "jetify-com",
             "repo": "typeid-js",
-            "stars": 434
-          }
+            "stars": 435
+          },
+          "first_seen": "2026-08-29T02:07:31.294Z"
         },
         {
           "node_type": "item",
@@ -367,14 +386,15 @@
             "owner": "microlinkhq",
             "repo": "async-ratelimiter",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-29T02:07:31.294Z"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:33:00.332Z",
+    "last_updated": "2026-08-29T02:07:31.294Z",
     "original_repository_info": {
       "archived": false,
       "id": 28921349,
@@ -382,7 +402,7 @@
       "last_commit": "2024-10-12T18:35:34Z",
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2963
+      "stars": 2964
     },
     "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
     "enhanced_repository": "enhansome/enhansome-api",
