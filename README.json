@@ -21,7 +21,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23333,
+                "stars": 23334,
                 "topics": [
                   "api",
                   "guidelines",
@@ -200,7 +200,7 @@
                 "open_issues": 123,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23812,
+                "stars": 23813,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 336,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38467,
+                "stars": 38471,
                 "topics": [
                   "api",
                   "api-client",
@@ -297,7 +297,7 @@
                 "open_issues": 473,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35509,
+                "stars": 35519,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75697,
+                "stars": 75692,
                 "topics": [
                   "api",
                   "fake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:41:38.023Z",
+    "last_updated": "2026-08-30T21:53:39.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
