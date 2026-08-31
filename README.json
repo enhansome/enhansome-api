@@ -21,7 +21,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23334,
+                "stars": 23333,
                 "topics": [
                   "api",
                   "guidelines",
@@ -47,7 +47,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13684,
+                "stars": 13685,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -200,7 +200,7 @@
                 "open_issues": 123,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23813,
+                "stars": 23815,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 336,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38471,
+                "stars": 38475,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-23T15:06:16Z",
-                "open_issues": 473,
+                "open_issues": 474,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35519,
+                "stars": 35524,
                 "topics": [
                   "jq"
                 ]
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:53:39.114Z",
+    "last_updated": "2026-08-31T23:11:03.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 38,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2964,
+      "stars": 2965,
       "topics": [
         "awesome",
         "awesome-list"
