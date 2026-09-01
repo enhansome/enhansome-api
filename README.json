@@ -21,7 +21,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23333,
+                "stars": 23332,
                 "topics": [
                   "api",
                   "guidelines",
@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23815,
+                "stars": 23820,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 336,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38475,
+                "stars": 38477,
                 "topics": [
                   "api",
                   "api-client",
@@ -293,11 +293,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-23T15:06:16Z",
-                "open_issues": 474,
+                "last_commit": "2026-09-01T06:30:47Z",
+                "open_issues": 475,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35524,
+                "stars": 35525,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75692,
+                "stars": 75694,
                 "topics": [
                   "api",
                   "fake",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36037,
+                "stars": 36036,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:11:03.721Z",
+    "last_updated": "2026-09-01T21:44:07.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 38,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2965,
+      "stars": 2966,
       "topics": [
         "awesome",
         "awesome-list"
