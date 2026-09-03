@@ -200,7 +200,7 @@
                 "open_issues": 125,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23823,
+                "stars": 23832,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:30:47Z",
-                "open_issues": 475,
+                "open_issues": 477,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35533,
+                "stars": 35542,
                 "topics": [
                   "jq"
                 ]
@@ -373,7 +373,7 @@
                 "id": 32814581,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-09T22:45:41Z",
+                "last_commit": "2026-09-03T08:51:51Z",
                 "open_issues": 2,
                 "owner": "marmelab",
                 "repo": "FakeRest",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36035,
+                "stars": 36034,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:46:11.666Z",
+    "last_updated": "2026-09-03T21:40:44.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 38,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2966,
+      "stars": 2967,
       "topics": [
         "awesome",
         "awesome-list"
