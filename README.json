@@ -200,7 +200,7 @@
                 "open_issues": 125,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23832,
+                "stars": 23835,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -218,7 +218,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-06-23T16:11:30Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "toddmotto",
                 "repo": "public-apis",
                 "stars": 2742,
@@ -252,10 +252,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 335,
+                "open_issues": 337,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38479,
+                "stars": 38482,
                 "topics": [
                   "api",
                   "api-client",
@@ -297,7 +297,7 @@
                 "open_issues": 477,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35542,
+                "stars": 35551,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75698,
+                "stars": 75703,
                 "topics": [
                   "api",
                   "fake",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36034,
+                "stars": 36031,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:40:44.824Z",
+    "last_updated": "2026-09-04T21:24:06.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
