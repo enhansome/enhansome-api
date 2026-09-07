@@ -21,7 +21,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23332,
+                "stars": 23331,
                 "topics": [
                   "api",
                   "guidelines",
@@ -159,7 +159,7 @@
                 "open_issues": 1,
                 "owner": "teesloane",
                 "repo": "Auth-Boss",
-                "stars": 2875,
+                "stars": 2874,
                 "topics": [
                   "authentication",
                   "cookies",
@@ -200,7 +200,7 @@
                 "open_issues": 135,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23846,
+                "stars": 23852,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -252,10 +252,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 337,
+                "open_issues": 338,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38485,
+                "stars": 38487,
                 "topics": [
                   "api",
                   "api-client",
@@ -297,7 +297,7 @@
                 "open_issues": 478,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35558,
+                "stars": 35560,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75704,
+                "stars": 75702,
                 "topics": [
                   "api",
                   "fake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:16:21.553Z",
+    "last_updated": "2026-09-07T21:58:38.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
