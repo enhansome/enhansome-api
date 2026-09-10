@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:07:38Z",
-                "open_issues": 176,
+                "open_issues": 178,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
                 "stars": 23330,
@@ -200,7 +200,7 @@
                 "open_issues": 137,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23857,
+                "stars": 23861,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 337,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38488,
+                "stars": 38492,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:30:47Z",
-                "open_issues": 479,
+                "open_issues": 480,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35558,
+                "stars": 35576,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75708,
+                "stars": 75705,
                 "topics": [
                   "api",
                   "fake",
@@ -373,7 +373,7 @@
                 "id": 32814581,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T08:51:51Z",
+                "last_commit": "2026-09-10T14:54:01Z",
                 "open_issues": 2,
                 "owner": "marmelab",
                 "repo": "FakeRest",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36032,
+                "stars": 36033,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:39:15.507Z",
+    "last_updated": "2026-09-10T21:34:59.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
