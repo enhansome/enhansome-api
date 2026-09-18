@@ -8,7 +8,7 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,334 | 🐛 179 | 📅 2026-08-05.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,332 | 🐛 179 | 📅 2026-08-05.
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,683 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 573 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 136 | 🐛 0 | 📅 2021-07-21.
@@ -88,7 +88,7 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,883 | 🐛 141 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,888 | 🐛 140 | 📅 2026-05-03 – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,743 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
@@ -100,9 +100,9 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,526 | 🐛 338 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 35,617 | 🐛 480 | 🌐 C | 📅 2026-09-15 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
-* [resty](https://github.com/micha/resty) ⭐ 2,654 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,529 | 🐛 338 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 35,618 | 🐛 455 | 🌐 C | 📅 2026-09-18 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [resty](https://github.com/micha/resty) ⭐ 2,651 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
@@ -110,7 +110,7 @@
 
 ### Mocking
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,709 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,713 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
 * [FakeRest](https://github.com/marmelab/FakeRest) ⭐ 456 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10 – Patch XMLHttpRequest to fake a REST API client-side.
 * [Beeceptor](https://beeceptor.com) - Beeceptor helps intercepting API calls and mocking them selectively. Creates an endpoint for wrapping original API and routes requests.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
@@ -163,8 +163,8 @@
 
 > Used it to improve your workflow
 
-* [hashids](https://github.com/niieani/hashids.js) ⭐ 4,287 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-12 – A small JavaScript library to generate YouTube-like ids from numbers.
-* [typeid-js](https://github.com/jetify-com/typeid-js) ⭐ 437 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-29 – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
+* [hashids](https://github.com/niieani/hashids.js) ⭐ 4,288 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-12 – A small JavaScript library to generate YouTube-like ids from numbers.
+* [typeid-js](https://github.com/jetify-com/typeid-js) ⭐ 438 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-29 – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 * [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) ⭐ 335 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-05 – Rate limit made simple, easy, async, backed in Redis.
 
 ## Frameworks
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,403 | 🐛 80 | 🌐 Python | 📅 2026-09-14.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,431 | 🐛 81 | 🌐 Python | 📅 2026-09-18.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
@@ -191,4 +191,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
