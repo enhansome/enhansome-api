@@ -8,7 +8,7 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,333 | 🐛 180 | 📅 2026-08-05.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,332 | 🐛 180 | 📅 2026-08-05.
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,684 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 573 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 137 | 🐛 0 | 📅 2021-07-21.
@@ -67,7 +67,7 @@
 ## Security
 
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
-* [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,983 | 🐛 11 | 📅 2019-07-08.
+* [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,982 | 🐛 11 | 📅 2019-07-08.
 * [Node Security Project](https://nodesecurity.io/).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
@@ -88,8 +88,8 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,902 | 🐛 142 | 📅 2026-05-03 – A public list of APIs from round the web.
-* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,743 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,905 | 🐛 142 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,742 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
 
@@ -100,8 +100,8 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,572 | 🐛 339 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 35,673 | 🐛 450 | 🌐 C | 📅 2026-09-19 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,577 | 🐛 337 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 35,685 | 🐛 451 | 🌐 C | 📅 2026-09-19 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,650 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
@@ -144,7 +144,7 @@
 ## Logging
 
 * [PM2 by keymetrics](https://pm2.keymetrics.io).
-* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-11.
+* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,203 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-11.
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
 
 ## Modeling and SaaS
@@ -163,7 +163,7 @@
 
 > Used it to improve your workflow
 
-* [hashids](https://github.com/niieani/hashids.js) ⭐ 4,289 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-12 – A small JavaScript library to generate YouTube-like ids from numbers.
+* [hashids](https://github.com/niieani/hashids.js) ⭐ 4,290 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-12 – A small JavaScript library to generate YouTube-like ids from numbers.
 * [typeid-js](https://github.com/jetify-com/typeid-js) ⭐ 438 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-29 – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 * [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) ⭐ 335 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-05 – Rate limit made simple, easy, async, backed in Redis.
 
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,556 | 🐛 82 | 🌐 Python | 📅 2026-09-18.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,585 | 🐛 82 | 🌐 Python | 📅 2026-09-18.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
@@ -191,4 +191,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
