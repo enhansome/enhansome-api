@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23910,
+                "stars": 23916,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -252,10 +252,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 337,
+                "open_issues": 341,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38585,
+                "stars": 38588,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-25T07:39:06Z",
-                "open_issues": 448,
+                "open_issues": 450,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35690,
+                "stars": 35698,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 720,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75719,
+                "stars": 75718,
                 "topics": [
                   "api",
                   "fake",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36030,
+                "stars": 36031,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -498,7 +498,7 @@
             "open_issues": 11,
             "owner": "niieani",
             "repo": "hashids.js",
-            "stars": 4290,
+            "stars": 4291,
             "topics": [
               "database-ids",
               "encoding",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:15:00.363Z",
+    "last_updated": "2026-09-26T21:56:43.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 43,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2979,
+      "stars": 2981,
       "topics": [
         "awesome",
         "awesome-list"
