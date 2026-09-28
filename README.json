@@ -21,7 +21,7 @@
                 "open_issues": 180,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23337,
+                "stars": 23338,
                 "topics": [
                   "api",
                   "guidelines",
@@ -159,7 +159,7 @@
                 "open_issues": 1,
                 "owner": "teesloane",
                 "repo": "Auth-Boss",
-                "stars": 2873,
+                "stars": 2872,
                 "topics": [
                   "authentication",
                   "cookies",
@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 146,
+                "open_issues": 148,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23922,
+                "stars": 23925,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 341,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38591,
+                "stars": 38595,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-27T04:52:41Z",
-                "open_issues": 450,
+                "open_issues": 426,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35705,
+                "stars": 35712,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 719,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75714,
+                "stars": 75718,
                 "topics": [
                   "api",
                   "fake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:03:05.760Z",
+    "last_updated": "2026-09-28T23:48:14.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
