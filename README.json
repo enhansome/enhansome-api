@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Microsoft REST API Guidelines",
-              "description": ".",
+              "description": "microsoft/api-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -34,7 +34,7 @@
             {
               "node_type": "item",
               "title": "HTTP API Design by Heroku",
-              "description": ".",
+              "description": "interagent/http-api-design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -55,7 +55,7 @@
             {
               "node_type": "item",
               "title": "How to (and how not to) design REST APIs",
-              "description": null,
+              "description": "stickfigure/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "IBM Watson REST API Guidelines",
-              "description": ".",
+              "description": "watson-developer-cloud/api-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -97,7 +97,7 @@
             {
               "node_type": "item",
               "title": "API Terms Glossary",
-              "description": ".",
+              "description": "Kong/apiglossary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -118,7 +118,7 @@
             {
               "node_type": "item",
               "title": "RAPIS: A REST API Standard for the 21th century",
-              "description": ".",
+              "description": "lambda2/rapis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23944,
+                "stars": 23945,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -294,7 +294,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T06:39:24Z",
-                "open_issues": 429,
+                "open_issues": 430,
                 "owner": "jqlang",
                 "repo": "jq",
                 "stars": 35737,
@@ -406,7 +406,7 @@
             {
               "node_type": "item",
               "title": "slate",
-              "description": ".",
+              "description": "slatedocs/slate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -432,7 +432,7 @@
             {
               "node_type": "item",
               "title": "whiteboard",
-              "description": ".",
+              "description": "mpociot/whiteboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -453,7 +453,7 @@
             {
               "node_type": "item",
               "title": "docbox",
-              "description": ".",
+              "description": "tmcw/docbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:56:14.529Z",
+    "last_updated": "2026-10-03T04:33:00.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
