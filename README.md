@@ -8,7 +8,7 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,334 | 🐛 182 | 📅 2026-08-05.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,335 | 🐛 182 | 📅 2026-08-05.
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,679 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 573 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 137 | 🐛 0 | 📅 2021-07-21.
@@ -88,8 +88,8 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,947 | 🐛 152 | 📅 2026-05-03 – A public list of APIs from round the web.
-* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,737 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,948 | 🐛 154 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,736 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
 
@@ -100,8 +100,8 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,626 | 🐛 345 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 35,740 | 🐛 430 | 🌐 C | 📅 2026-10-01 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,694 | 🐛 345 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 35,744 | 🐛 431 | 🌐 C | 📅 2026-10-01 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,650 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,791 | 🐛 86 | 🌐 Python | 📅 2026-10-02.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,806 | 🐛 85 | 🌐 Python | 📅 2026-10-02.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
@@ -191,4 +191,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
