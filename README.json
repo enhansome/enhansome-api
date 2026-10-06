@@ -68,7 +68,7 @@
                 "open_issues": 0,
                 "owner": "stickfigure",
                 "repo": "blog",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -200,7 +200,7 @@
                 "open_issues": 154,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23948,
+                "stars": 23949,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -221,7 +221,7 @@
                 "open_issues": 13,
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2736,
+                "stars": 2737,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -252,10 +252,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 345,
+                "open_issues": 343,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38694,
+                "stars": 38710,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T06:39:24Z",
-                "open_issues": 431,
+                "open_issues": 428,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35744,
+                "stars": 35749,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 719,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75710,
+                "stars": 75713,
                 "topics": [
                   "api",
                   "fake",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36024,
+                "stars": 36022,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -529,7 +529,7 @@
             "open_issues": 2,
             "owner": "jetify-com",
             "repo": "typeid-js",
-            "stars": 441,
+            "stars": 440,
             "topics": [
               "guid",
               "js",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:18:35.002Z",
+    "last_updated": "2026-10-06T00:45:36.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -588,10 +588,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-12T18:35:34Z",
-      "open_issues": 42,
+      "open_issues": 43,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2981,
+      "stars": 2982,
       "topics": [
         "awesome",
         "awesome-list"
