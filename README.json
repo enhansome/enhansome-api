@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:07:38Z",
-                "open_issues": 182,
+                "open_issues": 181,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23335,
+                "stars": 23334,
                 "topics": [
                   "api",
                   "guidelines",
@@ -200,7 +200,7 @@
                 "open_issues": 154,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23949,
+                "stars": 23950,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 343,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38710,
+                "stars": 38720,
                 "topics": [
                   "api",
                   "api-client",
@@ -293,11 +293,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T06:39:24Z",
-                "open_issues": 428,
+                "last_commit": "2026-10-06T07:48:28Z",
+                "open_issues": 426,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35749,
+                "stars": 35750,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 719,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75713,
+                "stars": 75718,
                 "topics": [
                   "api",
                   "fake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:45:36.226Z",
+    "last_updated": "2026-10-06T10:21:31.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
