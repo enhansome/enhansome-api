@@ -21,7 +21,7 @@
                 "open_issues": 182,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23331,
+                "stars": 23333,
                 "topics": [
                   "api",
                   "guidelines",
@@ -159,7 +159,7 @@
                 "open_issues": 1,
                 "owner": "teesloane",
                 "repo": "Auth-Boss",
-                "stars": 2872,
+                "stars": 2873,
                 "topics": [
                   "authentication",
                   "cookies",
@@ -200,7 +200,7 @@
                 "open_issues": 158,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23951,
+                "stars": 23954,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 344,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38741,
+                "stars": 38743,
                 "topics": [
                   "api",
                   "api-client",
@@ -293,11 +293,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T23:24:10Z",
-                "open_issues": 421,
+                "last_commit": "2026-10-08T14:38:21Z",
+                "open_issues": 420,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35758,
+                "stars": 35767,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 719,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75717,
+                "stars": 75722,
                 "topics": [
                   "api",
                   "fake",
@@ -466,7 +466,7 @@
                 "open_issues": 6,
                 "owner": "tmcw",
                 "repo": "docbox",
-                "stars": 1131,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -529,7 +529,7 @@
             "open_issues": 2,
             "owner": "jetify-com",
             "repo": "typeid-js",
-            "stars": 441,
+            "stars": 442,
             "topics": [
               "guid",
               "js",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:33:15.142Z",
+    "last_updated": "2026-10-08T23:43:23.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 43,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2981,
+      "stars": 2983,
       "topics": [
         "awesome",
         "awesome-list"
