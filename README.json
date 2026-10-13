@@ -21,7 +21,7 @@
                 "open_issues": 181,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23332,
+                "stars": 23333,
                 "topics": [
                   "api",
                   "guidelines",
@@ -47,7 +47,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13677,
+                "stars": 13676,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -159,7 +159,7 @@
                 "open_issues": 1,
                 "owner": "teesloane",
                 "repo": "Auth-Boss",
-                "stars": 2872,
+                "stars": 2874,
                 "topics": [
                   "authentication",
                   "cookies",
@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 161,
+                "open_issues": 162,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 23970,
+                "stars": 23975,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -221,7 +221,7 @@
                 "open_issues": 13,
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2740,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 348,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38754,
+                "stars": 38756,
                 "topics": [
                   "api",
                   "api-client",
@@ -293,11 +293,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T04:40:40Z",
-                "open_issues": 423,
+                "last_commit": "2026-10-13T07:47:59Z",
+                "open_issues": 418,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35798,
+                "stars": 35801,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 719,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75727,
+                "stars": 75730,
                 "topics": [
                   "api",
                   "fake",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36013,
+                "stars": 36015,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -445,7 +445,7 @@
                 "open_issues": 15,
                 "owner": "mpociot",
                 "repo": "whiteboard",
-                "stars": 1224,
+                "stars": 1225,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:17:07.557Z",
+    "last_updated": "2026-10-13T23:15:20.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 43,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2983,
+      "stars": 2984,
       "topics": [
         "awesome",
         "awesome-list"

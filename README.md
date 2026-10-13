@@ -8,8 +8,8 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,332 | 🐛 181 | 📅 2026-08-05.
-* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,677 | 🐛 30 | 📅 2024-01-16.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,333 | 🐛 181 | 📅 2026-08-05.
+* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,676 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 574 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 137 | 🐛 0 | 📅 2021-07-21.
 * [API Terms Glossary](https://github.com/Mashape/apiglossary) ⭐ 96 | 🐛 2 | 📅 2017-03-25.
@@ -33,7 +33,7 @@
 
 ### Authentication
 
-* [Auth Boss](https://github.com/teesloane/Auth-Boss) ⭐ 2,872 | 🐛 1 | 📅 2017-03-01 – Learn about different authentication methodologies on the web.
+* [Auth Boss](https://github.com/teesloane/Auth-Boss) ⭐ 2,874 | 🐛 1 | 📅 2017-03-01 – Learn about different authentication methodologies on the web.
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet).
 * [The Problem With API Authentication in Express](https://stormpath.com/blog/the-problem-with-api-authentication-in-express/).
 * [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
@@ -88,8 +88,8 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,970 | 🐛 161 | 📅 2026-05-03 – A public list of APIs from round the web.
-* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,740 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 23,975 | 🐛 162 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,741 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
 
@@ -100,8 +100,8 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,754 | 🐛 348 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 35,798 | 🐛 423 | 🌐 C | 📅 2026-10-12 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,756 | 🐛 348 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 35,801 | 🐛 418 | 🌐 C | 📅 2026-10-13 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,650 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
@@ -110,7 +110,7 @@
 
 ### Mocking
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,727 | 🐛 719 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,730 | 🐛 719 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
 * [FakeRest](https://github.com/marmelab/FakeRest) ⭐ 456 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10 – Patch XMLHttpRequest to fake a REST API client-side.
 * [Beeceptor](https://beeceptor.com) - Beeceptor helps intercepting API calls and mocking them selectively. Creates an endpoint for wrapping original API and routes requests.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
@@ -132,7 +132,7 @@
 ### Free
 
 * [slate](https://github.com/tripit/slate) ⚠️ Archived.
-* [whiteboard](https://github.com/mpociot/whiteboard) ⭐ 1,224 | 🐛 15 | 🌐 JavaScript | 📅 2021-01-29.
+* [whiteboard](https://github.com/mpociot/whiteboard) ⭐ 1,225 | 🐛 15 | 🌐 JavaScript | 📅 2021-01-29.
 * [docbox](https://github.com/tmcw/docbox) ⭐ 1,128 | 🐛 6 | 🌐 CSS | 📅 2020-04-21.
 
 ### Services
@@ -144,7 +144,7 @@
 ## Logging
 
 * [PM2 by keymetrics](https://pm2.keymetrics.io).
-* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01.
+* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01.
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
 
 ## Modeling and SaaS
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 103,062 | 🐛 88 | 🌐 Python | 📅 2026-10-08.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 103,087 | 🐛 88 | 🌐 Python | 📅 2026-10-08.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
