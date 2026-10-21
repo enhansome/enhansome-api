@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24018,
+                "stars": 24022,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -221,7 +221,7 @@
                 "open_issues": 13,
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2747,
+                "stars": 2748,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -252,10 +252,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 353,
+                "open_issues": 354,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38662,
+                "stars": 38666,
                 "topics": [
                   "api",
                   "api-client",
@@ -293,11 +293,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T13:28:24Z",
-                "open_issues": 424,
+                "last_commit": "2026-10-21T12:40:49Z",
+                "open_issues": 422,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35889,
+                "stars": 35904,
                 "topics": [
                   "jq"
                 ]
@@ -345,7 +345,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-03-23T19:40:00Z",
-                "open_issues": 722,
+                "open_issues": 723,
                 "owner": "typicode",
                 "repo": "json-server",
                 "stars": 75735,
@@ -377,7 +377,7 @@
                 "open_issues": 0,
                 "owner": "marmelab",
                 "repo": "FakeRest",
-                "stars": 456,
+                "stars": 454,
                 "topics": [
                   "client",
                   "fetch",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36010,
+                "stars": 36009,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:14:57.547Z",
+    "last_updated": "2026-10-21T22:16:58.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 43,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2985,
+      "stars": 2986,
       "topics": [
         "awesome",
         "awesome-list"
