@@ -21,7 +21,7 @@
                 "open_issues": 182,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23342,
+                "stars": 23341,
                 "topics": [
                   "api",
                   "guidelines",
@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 174,
+                "open_issues": 175,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24033,
+                "stars": 24038,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -252,10 +252,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38675,
+                "stars": 38676,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-25T05:40:52Z",
-                "open_issues": 415,
+                "open_issues": 419,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35939,
+                "stars": 35958,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 723,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75740,
+                "stars": 75739,
                 "topics": [
                   "api",
                   "fake",
@@ -529,7 +529,7 @@
             "open_issues": 2,
             "owner": "jetify-com",
             "repo": "typeid-js",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "guid",
               "js",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:41:45.141Z",
+    "last_updated": "2026-10-26T23:05:28.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -591,7 +591,7 @@
       "open_issues": 43,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2986,
+      "stars": 2987,
       "topics": [
         "awesome",
         "awesome-list"
