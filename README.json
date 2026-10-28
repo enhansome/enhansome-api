@@ -21,7 +21,7 @@
                 "open_issues": 182,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23341,
+                "stars": 23340,
                 "topics": [
                   "api",
                   "guidelines",
@@ -200,7 +200,7 @@
                 "open_issues": 176,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24040,
+                "stars": 24044,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 356,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38675,
+                "stars": 38680,
                 "topics": [
                   "api",
                   "api-client",
@@ -297,7 +297,7 @@
                 "open_issues": 419,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35978,
+                "stars": 35992,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 723,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75740,
+                "stars": 75737,
                 "topics": [
                   "api",
                   "fake",
@@ -373,8 +373,8 @@
                 "id": 32814581,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T15:51:08Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-28T13:44:26Z",
+                "open_issues": 1,
                 "owner": "marmelab",
                 "repo": "FakeRest",
                 "stars": 454,
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36003,
+                "stars": 36002,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -498,7 +498,7 @@
             "open_issues": 11,
             "owner": "niieani",
             "repo": "hashids.js",
-            "stars": 4287,
+            "stars": 4286,
             "topics": [
               "database-ids",
               "encoding",
@@ -554,7 +554,7 @@
             "id": 137690849,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-05T20:34:21Z",
+            "last_commit": "2026-10-28T19:53:03Z",
             "open_issues": 0,
             "owner": "microlinkhq",
             "repo": "async-ratelimiter",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:55:04.340Z",
+    "last_updated": "2026-10-28T23:08:17.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
