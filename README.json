@@ -17,8 +17,8 @@
                 "id": 63188650,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-05T00:07:38Z",
-                "open_issues": 183,
+                "last_commit": "2026-10-30T20:17:50Z",
+                "open_issues": 182,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
                 "stars": 23339,
@@ -47,7 +47,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13671,
+                "stars": 13670,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -200,7 +200,7 @@
                 "open_issues": 176,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24044,
+                "stars": 24046,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -221,7 +221,7 @@
                 "open_issues": 13,
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2747,
+                "stars": 2746,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 357,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38679,
+                "stars": 38686,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +294,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-25T05:40:52Z",
-                "open_issues": 419,
+                "open_issues": 421,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35982,
+                "stars": 35991,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 723,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75734,
+                "stars": 75735,
                 "topics": [
                   "api",
                   "fake",
@@ -498,7 +498,7 @@
             "open_issues": 11,
             "owner": "niieani",
             "repo": "hashids.js",
-            "stars": 4285,
+            "stars": 4284,
             "topics": [
               "database-ids",
               "encoding",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:13:59.542Z",
+    "last_updated": "2026-10-30T22:56:01.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
