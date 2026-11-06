@@ -8,7 +8,7 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,342 | 🐛 183 | 📅 2026-10-30.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,341 | 🐛 183 | 📅 2026-10-30.
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,671 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 573 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 136 | 🐛 0 | 📅 2021-07-21.
@@ -33,7 +33,7 @@
 
 ### Authentication
 
-* [Auth Boss](https://github.com/teesloane/Auth-Boss) ⭐ 2,871 | 🐛 1 | 📅 2017-03-01 – Learn about different authentication methodologies on the web.
+* [Auth Boss](https://github.com/teesloane/Auth-Boss) ⭐ 2,870 | 🐛 1 | 📅 2017-03-01 – Learn about different authentication methodologies on the web.
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet).
 * [The Problem With API Authentication in Express](https://stormpath.com/blog/the-problem-with-api-authentication-in-express/).
 * [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
@@ -88,7 +88,7 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,074 | 🐛 181 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,077 | 🐛 179 | 📅 2026-05-03 – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,745 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
@@ -100,8 +100,8 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,695 | 🐛 362 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 36,043 | 🐛 424 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,697 | 🐛 362 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 36,054 | 🐛 428 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,650 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
@@ -110,7 +110,7 @@
 
 ### Mocking
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,731 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,730 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
 * [FakeRest](https://github.com/marmelab/FakeRest) ⭐ 454 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 – Patch XMLHttpRequest to fake a REST API client-side.
 * [Beeceptor](https://beeceptor.com) - Beeceptor helps intercepting API calls and mocking them selectively. Creates an endpoint for wrapping original API and routes requests.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
@@ -133,7 +133,7 @@
 
 * [slate](https://github.com/tripit/slate) ⚠️ Archived.
 * [whiteboard](https://github.com/mpociot/whiteboard) ⭐ 1,225 | 🐛 15 | 🌐 JavaScript | 📅 2021-01-29.
-* [docbox](https://github.com/tmcw/docbox) ⭐ 1,128 | 🐛 6 | 🌐 CSS | 📅 2020-04-21.
+* [docbox](https://github.com/tmcw/docbox) ⭐ 1,129 | 🐛 6 | 🌐 CSS | 📅 2020-04-21.
 
 ### Services
 
@@ -144,7 +144,7 @@
 ## Logging
 
 * [PM2 by keymetrics](https://pm2.keymetrics.io).
-* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-01.
+* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,204 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-01.
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
 
 ## Modeling and SaaS
@@ -164,7 +164,7 @@
 > Used it to improve your workflow
 
 * [hashids](https://github.com/niieani/hashids.js) ⭐ 4,283 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-12 – A small JavaScript library to generate YouTube-like ids from numbers.
-* [typeid-js](https://github.com/jetify-com/typeid-js) ⭐ 443 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-29 – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
+* [typeid-js](https://github.com/jetify-com/typeid-js) ⭐ 444 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-29 – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 * [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) ⭐ 335 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29 – Rate limit made simple, easy, async, backed in Redis.
 
 ## Frameworks
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,409 | 🐛 61 | 🌐 Python | 📅 2026-11-04.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,457 | 🐛 60 | 🌐 Python | 📅 2026-11-05.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
@@ -191,4 +191,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
