@@ -8,8 +8,8 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,344 | 🐛 183 | 📅 2026-10-30.
-* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,669 | 🐛 30 | 📅 2024-01-16.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,345 | 🐛 183 | 📅 2026-10-30.
+* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,670 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 573 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 135 | 🐛 0 | 📅 2021-07-21.
 * [API Terms Glossary](https://github.com/Mashape/apiglossary) ⭐ 96 | 🐛 2 | 📅 2017-03-25.
@@ -88,8 +88,8 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,090 | 🐛 187 | 📅 2026-05-03 – A public list of APIs from round the web.
-* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,744 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,096 | 🐛 202 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,743 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
 
@@ -100,8 +100,8 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,705 | 🐛 362 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 36,092 | 🐛 435 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,708 | 🐛 362 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 36,099 | 🐛 435 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,651 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
@@ -163,8 +163,8 @@
 
 > Used it to improve your workflow
 
-* [hashids](https://github.com/niieani/hashids.js) ⭐ 4,282 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-12 – A small JavaScript library to generate YouTube-like ids from numbers.
-* [typeid-js](https://github.com/jetify-com/typeid-js) ⭐ 443 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-29 – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
+* [hashids](https://github.com/niieani/hashids.js) ⭐ 4,283 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-12 – A small JavaScript library to generate YouTube-like ids from numbers.
+* [typeid-js](https://github.com/jetify-com/typeid-js) ⭐ 444 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 * [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) ⭐ 335 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29 – Rate limit made simple, easy, async, backed in Redis.
 
 ## Frameworks
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,600 | 🐛 60 | 🌐 Python | 📅 2026-11-09.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,627 | 🐛 54 | 🌐 Python | 📅 2026-11-10.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
