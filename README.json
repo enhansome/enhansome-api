@@ -21,7 +21,7 @@
                 "open_issues": 182,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23346,
+                "stars": 23348,
                 "topics": [
                   "api",
                   "guidelines",
@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 198,
+                "open_issues": 199,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24109,
+                "stars": 24110,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 362,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38712,
+                "stars": 38715,
                 "topics": [
                   "api",
                   "api-client",
@@ -297,7 +297,7 @@
                 "open_issues": 438,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 36122,
+                "stars": 36134,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 721,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75744,
+                "stars": 75743,
                 "topics": [
                   "api",
                   "fake",
@@ -498,7 +498,7 @@
             "open_issues": 11,
             "owner": "niieani",
             "repo": "hashids.js",
-            "stars": 4281,
+            "stars": 4282,
             "topics": [
               "database-ids",
               "encoding",
@@ -526,7 +526,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T20:16:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "jetify-com",
             "repo": "typeid-js",
             "stars": 444,
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:17:42.291Z",
+    "last_updated": "2026-11-14T22:56:10.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
