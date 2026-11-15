@@ -88,7 +88,7 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,110 | 🐛 199 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,114 | 🐛 200 | 📅 2026-05-03 – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,745 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
@@ -100,8 +100,8 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,715 | 🐛 362 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 36,134 | 🐛 438 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,719 | 🐛 362 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 36,145 | 🐛 438 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,651 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
@@ -110,7 +110,7 @@
 
 ### Mocking
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,743 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,745 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
 * [FakeRest](https://github.com/marmelab/FakeRest) ⭐ 455 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 – Patch XMLHttpRequest to fake a REST API client-side.
 * [Beeceptor](https://beeceptor.com) - Beeceptor helps intercepting API calls and mocking them selectively. Creates an endpoint for wrapping original API and routes requests.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,717 | 🐛 51 | 🌐 Python | 📅 2026-11-14.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,754 | 🐛 76 | 🌐 Python | 📅 2026-11-15.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
@@ -191,4 +191,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

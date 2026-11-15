@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 199,
+                "open_issues": 200,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24110,
+                "stars": 24114,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 362,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38715,
+                "stars": 38719,
                 "topics": [
                   "api",
                   "api-client",
@@ -297,7 +297,7 @@
                 "open_issues": 438,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 36134,
+                "stars": 36145,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 721,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75743,
+                "stars": 75745,
                 "topics": [
                   "api",
                   "fake",
@@ -419,7 +419,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 35993,
+                "stars": 35992,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:56:10.043Z",
+    "last_updated": "2026-11-15T23:21:55.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -588,7 +588,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-12T18:35:34Z",
-      "open_issues": 46,
+      "open_issues": 47,
       "owner": "Kikobeats",
       "repo": "awesome-api",
       "stars": 2997,
