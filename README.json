@@ -47,7 +47,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13670,
+                "stars": 13671,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -197,10 +197,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 204,
+                "open_issues": 207,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24131,
+                "stars": 24137,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -255,7 +255,7 @@
                 "open_issues": 365,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38720,
+                "stars": 38723,
                 "topics": [
                   "api",
                   "api-client",
@@ -297,7 +297,7 @@
                 "open_issues": 440,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 36166,
+                "stars": 36171,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +348,7 @@
                 "open_issues": 721,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75746,
+                "stars": 75747,
                 "topics": [
                   "api",
                   "fake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:34:44.259Z",
+    "last_updated": "2026-11-19T01:06:16.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
