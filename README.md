@@ -88,7 +88,7 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,147 | 🐛 212 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,146 | 🐛 213 | 📅 2026-05-03 – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,744 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
@@ -100,8 +100,8 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,726 | 🐛 364 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 36,211 | 🐛 458 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,729 | 🐛 364 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 36,223 | 🐛 460 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,649 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
@@ -144,7 +144,7 @@
 ## Logging
 
 * [PM2 by keymetrics](https://pm2.keymetrics.io).
-* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01.
+* [morgan for expressjs](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01.
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
 
 ## Modeling and SaaS
@@ -173,7 +173,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 104,949 | 🐛 49 | 🌐 Python | 📅 2026-11-18.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 105,057 | 🐛 49 | 🌐 Python | 📅 2026-11-18.
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
@@ -191,4 +191,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
