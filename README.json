@@ -21,7 +21,7 @@
                 "open_issues": 183,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23355,
+                "stars": 23361,
                 "topics": [
                   "api",
                   "guidelines",
@@ -47,7 +47,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13670,
+                "stars": 13669,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -93,88 +93,11 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
-            },
-            {
-              "node_type": "item",
-              "title": "API Terms Glossary",
-              "description": "Kong/apiglossary",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open source glossary of API terms, acronyms and industry buzzwords.",
-                "homepage": "http://apiglossary.com",
-                "id": 18233045,
-                "language": null,
-                "license": null,
-                "last_commit": "2017-03-25T11:55:40Z",
-                "open_issues": 2,
-                "owner": "Kong",
-                "repo": "apiglossary",
-                "stars": 96,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:07:31.294Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RAPIS: A REST API Standard for the 21th century",
-              "description": "lambda2/rapis",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A specification proposal for API's",
-                "homepage": null,
-                "id": 61573222,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2016-07-05T14:14:11Z",
-                "open_issues": 1,
-                "owner": "lambda2",
-                "repo": "rapis",
-                "stars": 55,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:07:31.294Z"
             }
           ],
           "description": "REST allows us to create services and applications that can be used by any device or client who understands HTTP.",
           "node_type": "group",
           "title": "Overview"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Auth Boss",
-              "description": "Learn about different authentication methodologies on the web.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.",
-                "homepage": null,
-                "id": 82708238,
-                "language": null,
-                "license": null,
-                "last_commit": "2017-03-01T03:45:02Z",
-                "open_issues": 1,
-                "owner": "teesloane",
-                "repo": "Auth-Boss",
-                "stars": 2867,
-                "topics": [
-                  "authentication",
-                  "cookies",
-                  "https",
-                  "jwt",
-                  "sessions",
-                  "ssl"
-                ]
-              },
-              "first_seen": "2026-08-29T02:07:31.294Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Authentication"
         }
       ],
       "title": "Design"
@@ -197,7 +120,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 213,
+                "open_issues": 214,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
                 "stars": 24149,
@@ -230,15 +153,45 @@
           "description": null,
           "node_type": "group",
           "title": "Curated list"
-        }
-      ],
-      "title": "Discover"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Bruno",
+              "description": "Opensource IDE for exploring and testing APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+                "homepage": "https://www.usebruno.com/",
+                "id": 542284380,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-24T17:37:48Z",
+                "open_issues": 1997,
+                "owner": "usebruno",
+                "repo": "bruno",
+                "stars": 48547,
+                "topics": [
+                  "api-client",
+                  "api-testing",
+                  "automation",
+                  "developer-tools",
+                  "git",
+                  "graphql-client",
+                  "http-client",
+                  "javascript",
+                  "openapi",
+                  "openapi3",
+                  "opensource",
+                  "rest-api",
+                  "testing",
+                  "testing-tools"
+                ]
+              },
+              "first_seen": "2026-11-25T03:00:14.945Z"
+            },
             {
               "node_type": "item",
               "title": "httpie",
@@ -255,7 +208,7 @@
                 "open_issues": 364,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38732,
+                "stars": 38735,
                 "topics": [
                   "api",
                   "api-client",
@@ -294,10 +247,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T07:08:10Z",
-                "open_issues": 461,
+                "open_issues": 464,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 36249,
+                "stars": 36302,
                 "topics": [
                   "jq"
                 ]
@@ -348,7 +301,7 @@
                 "open_issues": 725,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75751,
+                "stars": 75746,
                 "topics": [
                   "api",
                   "fake",
@@ -396,88 +349,7 @@
           "title": "Mocking"
         }
       ],
-      "title": "Testing"
-    },
-    {
-      "description": "One of the most important part of your API is have a good documentation and updated with the code.",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "slate",
-              "description": "slatedocs/slate",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Beautiful static documentation for your API",
-                "homepage": "https://slatedocs.github.io/slate",
-                "id": 12820537,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-02-01T05:54:12Z",
-                "open_issues": 50,
-                "owner": "slatedocs",
-                "repo": "slate",
-                "stars": 35982,
-                "topics": [
-                  "api",
-                  "api-documentation",
-                  "slate",
-                  "static-site-generator"
-                ]
-              },
-              "first_seen": "2026-08-29T02:07:31.294Z"
-            },
-            {
-              "node_type": "item",
-              "title": "whiteboard",
-              "description": "mpociot/whiteboard",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simply write beautiful API documentation.",
-                "homepage": null,
-                "id": 50463252,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2021-01-29T11:20:13Z",
-                "open_issues": 15,
-                "owner": "mpociot",
-                "repo": "whiteboard",
-                "stars": 1225,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:07:31.294Z"
-            },
-            {
-              "node_type": "item",
-              "title": "docbox",
-              "description": "tmcw/docbox",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "REST API documentation generator",
-                "homepage": null,
-                "id": 53007065,
-                "language": "CSS",
-                "license": "ISC",
-                "last_commit": "2020-04-21T21:08:24Z",
-                "open_issues": 6,
-                "owner": "tmcw",
-                "repo": "docbox",
-                "stars": 1129,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:07:31.294Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Free"
-        }
-      ],
-      "title": "Documentation"
+      "title": "Discover"
     },
     {
       "description": "Used it to improve your workflow",
@@ -498,7 +370,7 @@
             "open_issues": 11,
             "owner": "niieani",
             "repo": "hashids.js",
-            "stars": 4279,
+            "stars": 4280,
             "topics": [
               "database-ids",
               "encoding",
@@ -579,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:15:40.802Z",
+    "last_updated": "2026-11-25T03:00:14.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -587,8 +459,8 @@
       "id": 28921349,
       "language": null,
       "license": null,
-      "last_commit": "2024-10-12T18:35:34Z",
-      "open_issues": 47,
+      "last_commit": "2026-11-24T21:46:26Z",
+      "open_issues": 1,
       "owner": "Kikobeats",
       "repo": "awesome-api",
       "stars": 2997,
@@ -597,7 +469,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "b9596af9ec854897d6a41f2ad954fc3babc64e4f",
+    "original_repository_sha": "4cce59011d24d9e9135ed208cb6aa278aa2fea28",
     "enhanced_repository": "enhansome/enhansome-api",
     "enhanced_repository_description": null,
     "title": "Awesome API with stars"
