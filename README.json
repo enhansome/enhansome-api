@@ -21,7 +21,7 @@
                 "open_issues": 183,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23361,
+                "stars": 23363,
                 "topics": [
                   "api",
                   "guidelines",
@@ -47,7 +47,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13669,
+                "stars": 13668,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -123,7 +123,7 @@
                 "open_issues": 214,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24149,
+                "stars": 24156,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -144,7 +144,7 @@
                 "open_issues": 13,
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2744,
+                "stars": 2743,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -168,11 +168,11 @@
                 "id": 542284380,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T17:37:48Z",
-                "open_issues": 1997,
+                "last_commit": "2026-11-25T11:01:56Z",
+                "open_issues": 2002,
                 "owner": "usebruno",
                 "repo": "bruno",
-                "stars": 48547,
+                "stars": 48569,
                 "topics": [
                   "api-client",
                   "api-testing",
@@ -205,10 +205,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 364,
+                "open_issues": 365,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38735,
+                "stars": 38744,
                 "topics": [
                   "api",
                   "api-client",
@@ -247,10 +247,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T07:08:10Z",
-                "open_issues": 464,
+                "open_issues": 465,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 36302,
+                "stars": 36344,
                 "topics": [
                   "jq"
                 ]
@@ -298,10 +298,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-03-23T19:40:00Z",
-                "open_issues": 725,
+                "open_issues": 726,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75746,
+                "stars": 75749,
                 "topics": [
                   "api",
                   "fake",
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:00:14.945Z",
+    "last_updated": "2026-11-26T02:08:14.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
@@ -460,10 +460,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-24T21:46:26Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "Kikobeats",
       "repo": "awesome-api",
-      "stars": 2997,
+      "stars": 2998,
       "topics": [
         "awesome",
         "awesome-list"
