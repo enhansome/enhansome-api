@@ -9,7 +9,7 @@
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,363 | 🐛 183 | 📅 2026-10-30.
-* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,668 | 🐛 30 | 📅 2024-01-16.
+* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design) ⭐ 13,666 | 🐛 30 | 📅 2024-01-16.
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) ⭐ 573 | 🐛 0 | 📅 2024-01-08
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines) ⭐ 135 | 🐛 0 | 📅 2021-07-21.
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) \[[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
@@ -48,7 +48,7 @@
 
 ## Security
 
-* [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,988 | 🐛 11 | 📅 2019-07-08.
+* [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,989 | 🐛 11 | 📅 2019-07-08.
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
@@ -69,7 +69,7 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,156 | 🐛 214 | 📅 2026-05-03 – A public list of APIs from round the web.
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) ⭐ 24,159 | 🐛 215 | 📅 2026-05-03 – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) ⭐ 2,743 | 🐛 13 | 📅 2024-06-23 – A collective list of public JSON APIs for use in web development.
 
 ### Directory
@@ -78,15 +78,15 @@
 
 ### Querying
 
-* [Bruno](https://github.com/usebruno/bruno) ⭐ 48,569 | 🐛 2,002 | 🌐 JavaScript | 📅 2026-11-25 - Opensource IDE for exploring and testing APIs.
-* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,744 | 🐛 365 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) ⭐ 36,344 | 🐛 465 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [Bruno](https://github.com/usebruno/bruno) ⭐ 48,595 | 🐛 2,013 | 🌐 JavaScript | 📅 2026-11-26 - Opensource IDE for exploring and testing APIs.
+* [httpie](https://github.com/jkbrzt/httpie) ⭐ 38,746 | 🐛 365 | 🌐 Python | 📅 2024-12-17 – Command line HTTP client, far more dev-friendly than `curl`.
+* [jq](https://github.com/stedolan/jq) ⭐ 36,361 | 🐛 465 | 🌐 C | 📅 2026-11-02 – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [resty](https://github.com/micha/resty) ⭐ 2,649 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 
 ### Mocking
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,749 | 🐛 726 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,750 | 🐛 726 | 🌐 JavaScript | 📅 2026-03-23 – Get a full fake REST API with zero coding in less than 30 seconds.
 * [FakeRest](https://github.com/marmelab/FakeRest) ⭐ 454 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 – Patch XMLHttpRequest to fake a REST API client-side.
 * [Beeceptor](https://beeceptor.com) - Beeceptor helps intercepting API calls and mocking them selectively. Creates an endpoint for wrapping original API and routes requests.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
@@ -142,7 +142,7 @@
 
 > Designed specifically for building RESTful API's Quickly.
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 105,043 | 🐛 47 | 🌐 Python | 📅 2026-11-24.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 105,070 | 🐛 47 | 🌐 Python | 📅 2026-11-24.
 * [Loopback](http://loopback.io).
 * [rest-hapi](https://resthapi.com).
 * [Sails.js](http://sailsjs.org).
@@ -161,4 +161,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

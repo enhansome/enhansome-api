@@ -47,7 +47,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13668,
+                "stars": 13666,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -120,10 +120,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-03T19:24:28Z",
-                "open_issues": 214,
+                "open_issues": 215,
                 "owner": "n0shake",
                 "repo": "Public-APIs",
-                "stars": 24156,
+                "stars": 24159,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:31.294Z"
@@ -168,11 +168,11 @@
                 "id": 542284380,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T11:01:56Z",
-                "open_issues": 2002,
+                "last_commit": "2026-11-26T15:08:08Z",
+                "open_issues": 2013,
                 "owner": "usebruno",
                 "repo": "bruno",
-                "stars": 48569,
+                "stars": 48595,
                 "topics": [
                   "api-client",
                   "api-testing",
@@ -208,7 +208,7 @@
                 "open_issues": 365,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38744,
+                "stars": 38746,
                 "topics": [
                   "api",
                   "api-client",
@@ -250,7 +250,7 @@
                 "open_issues": 465,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 36344,
+                "stars": 36361,
                 "topics": [
                   "jq"
                 ]
@@ -301,7 +301,7 @@
                 "open_issues": 726,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75749,
+                "stars": 75750,
                 "topics": [
                   "api",
                   "fake",
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:08:14.937Z",
+    "last_updated": "2026-11-27T02:07:56.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for design and implement RESTful API's.",
